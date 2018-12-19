@@ -32,7 +32,7 @@ However one of our clients is **paying** for Circle-CI
 because tests in their 3 (actively developed) apps
 take up more than **1500** "**free minutes**" to build/test per month.
 So we feel they are "breaking even" on us...
-
+jdjdgjd
 
 ## What?
 
